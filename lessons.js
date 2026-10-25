@@ -35,7 +35,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "merci",
+        "bonjour",
+        "au revoir",
+        "s’il te plaît"
+      ],
+      "answer": 1,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 2,
@@ -72,7 +83,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "au revoir",
+        "s’il te plaît"
+      ],
+      "answer": 2,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 3,
@@ -109,7 +131,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "s’il te plaît"
+      ],
+      "answer": 3,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 4,
@@ -146,7 +179,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 0,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 5,
@@ -183,7 +227,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "s’il te plaît",
+        "désolé",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 1,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 6,
@@ -220,7 +275,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 2,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 7,
@@ -257,7 +323,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "désolé",
+        "au revoir"
+      ],
+      "answer": 3,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 8,
@@ -294,7 +371,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 0,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 9,
@@ -331,7 +419,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "au revoir",
+        "merci",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 1,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 10,
@@ -368,7 +467,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "au revoir",
+        "s’il te plaît",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 2,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 11,
@@ -405,7 +515,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "au revoir",
+        "s’il te plaît",
+        "merci",
+        "bonjour"
+      ],
+      "answer": 3,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 12,
@@ -442,7 +563,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "au revoir",
+        "s’il te plaît",
+        "merci",
+        "désolé"
+      ],
+      "answer": 0,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 13,
@@ -479,7 +611,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "bonjour",
+        "s’il te plaît",
+        "merci",
+        "désolé"
+      ],
+      "answer": 1,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 14,
@@ -516,7 +659,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "bonjour",
+        "au revoir",
+        "merci",
+        "désolé"
+      ],
+      "answer": 2,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 15,
@@ -553,7 +707,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "bonjour",
+        "au revoir",
+        "s’il te plaît",
+        "désolé"
+      ],
+      "answer": 3,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 16,
@@ -590,7 +755,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "bonjour",
+        "au revoir",
+        "s’il te plaît",
+        "merci"
+      ],
+      "answer": 0,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 17,
@@ -627,7 +803,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "désolé",
+        "au revoir",
+        "s’il te plaît",
+        "merci"
+      ],
+      "answer": 1,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 18,
@@ -664,7 +851,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "désolé",
+        "bonjour",
+        "s’il te plaît",
+        "merci"
+      ],
+      "answer": 2,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 19,
@@ -701,7 +899,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "désolé",
+        "bonjour",
+        "au revoir",
+        "merci"
+      ],
+      "answer": 3,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 20,
@@ -738,7 +947,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "désolé",
+        "bonjour",
+        "au revoir",
+        "s’il te plaît"
+      ],
+      "answer": 0,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 21,
@@ -775,7 +995,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "merci",
+        "bonjour",
+        "au revoir",
+        "s’il te plaît"
+      ],
+      "answer": 1,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 22,
@@ -812,7 +1043,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "au revoir",
+        "s’il te plaît"
+      ],
+      "answer": 2,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 23,
@@ -849,7 +1091,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "s’il te plaît"
+      ],
+      "answer": 3,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 24,
@@ -886,7 +1139,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 0,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 25,
@@ -923,7 +1187,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "s’il te plaît",
+        "désolé",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 1,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 26,
@@ -960,7 +1235,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « hello » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "bonjour",
+        "au revoir"
+      ],
+      "answer": 2,
+      "explanation": "« hello » signifie « bonjour ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 27,
@@ -997,7 +1283,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « goodbye » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "désolé",
+        "au revoir"
+      ],
+      "answer": 3,
+      "explanation": "« goodbye » signifie « au revoir ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 28,
@@ -1034,7 +1331,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « please » en français ?",
+      "options": [
+        "s’il te plaît",
+        "merci",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 0,
+      "explanation": "« please » signifie « s’il te plaît ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 29,
@@ -1071,7 +1379,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « thank you » en français ?",
+      "options": [
+        "au revoir",
+        "merci",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 1,
+      "explanation": "« thank you » signifie « merci ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 30,
@@ -1108,7 +1427,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « sorry » en français ?",
+      "options": [
+        "au revoir",
+        "s’il te plaît",
+        "désolé",
+        "bonjour"
+      ],
+      "answer": 2,
+      "explanation": "« sorry » signifie « désolé ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 31,
@@ -1145,7 +1475,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "manger",
+        "boire",
+        "travailler",
+        "se réveiller"
+      ],
+      "answer": 3,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 32,
@@ -1182,7 +1523,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "manger",
+        "boire",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 0,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 33,
@@ -1219,7 +1571,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "se réveiller",
+        "boire",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 1,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 34,
@@ -1256,7 +1619,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 2,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 35,
@@ -1293,7 +1667,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "boire",
+        "étudier"
+      ],
+      "answer": 3,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 36,
@@ -1330,7 +1715,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "boire",
+        "travailler"
+      ],
+      "answer": 0,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 37,
@@ -1367,7 +1763,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "étudier",
+        "manger",
+        "boire",
+        "travailler"
+      ],
+      "answer": 1,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 38,
@@ -1404,7 +1811,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "boire",
+        "travailler"
+      ],
+      "answer": 2,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 39,
@@ -1441,7 +1859,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "manger",
+        "travailler"
+      ],
+      "answer": 3,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 40,
@@ -1478,7 +1907,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "manger",
+        "boire"
+      ],
+      "answer": 0,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 41,
@@ -1515,7 +1955,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "travailler",
+        "se réveiller",
+        "manger",
+        "boire"
+      ],
+      "answer": 1,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 42,
@@ -1552,7 +2003,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "travailler",
+        "étudier",
+        "manger",
+        "boire"
+      ],
+      "answer": 2,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 43,
@@ -1589,7 +2051,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "travailler",
+        "étudier",
+        "se réveiller",
+        "boire"
+      ],
+      "answer": 3,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 44,
@@ -1626,7 +2099,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "travailler",
+        "étudier",
+        "se réveiller",
+        "manger"
+      ],
+      "answer": 0,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 45,
@@ -1663,7 +2147,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "boire",
+        "étudier",
+        "se réveiller",
+        "manger"
+      ],
+      "answer": 1,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 46,
@@ -1700,7 +2195,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "boire",
+        "travailler",
+        "se réveiller",
+        "manger"
+      ],
+      "answer": 2,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 47,
@@ -1737,7 +2243,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "boire",
+        "travailler",
+        "étudier",
+        "manger"
+      ],
+      "answer": 3,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 48,
@@ -1774,7 +2291,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "boire",
+        "travailler",
+        "étudier",
+        "se réveiller"
+      ],
+      "answer": 0,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 49,
@@ -1811,7 +2339,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "manger",
+        "travailler",
+        "étudier",
+        "se réveiller"
+      ],
+      "answer": 1,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 50,
@@ -1848,7 +2387,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "manger",
+        "boire",
+        "étudier",
+        "se réveiller"
+      ],
+      "answer": 2,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 51,
@@ -1885,7 +2435,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "manger",
+        "boire",
+        "travailler",
+        "se réveiller"
+      ],
+      "answer": 3,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 52,
@@ -1922,7 +2483,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "manger",
+        "boire",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 0,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 53,
@@ -1959,7 +2531,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "se réveiller",
+        "boire",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 1,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 54,
@@ -1996,7 +2579,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "travailler",
+        "étudier"
+      ],
+      "answer": 2,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 55,
@@ -2033,7 +2627,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "boire",
+        "étudier"
+      ],
+      "answer": 3,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 56,
@@ -2070,7 +2675,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « wake up » en français ?",
+      "options": [
+        "se réveiller",
+        "manger",
+        "boire",
+        "travailler"
+      ],
+      "answer": 0,
+      "explanation": "« wake up » signifie « se réveiller ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 57,
@@ -2107,7 +2723,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « eat » en français ?",
+      "options": [
+        "étudier",
+        "manger",
+        "boire",
+        "travailler"
+      ],
+      "answer": 1,
+      "explanation": "« eat » signifie « manger ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 58,
@@ -2144,7 +2771,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « drink » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "boire",
+        "travailler"
+      ],
+      "answer": 2,
+      "explanation": "« drink » signifie « boire ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 59,
@@ -2181,7 +2819,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « work » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "manger",
+        "travailler"
+      ],
+      "answer": 3,
+      "explanation": "« work » signifie « travailler ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 60,
@@ -2218,7 +2867,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « study » en français ?",
+      "options": [
+        "étudier",
+        "se réveiller",
+        "manger",
+        "boire"
+      ],
+      "answer": 0,
+      "explanation": "« study » signifie « étudier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 61,
@@ -2255,7 +2915,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "gauche",
+        "où",
+        "quand",
+        "combien"
+      ],
+      "answer": 1,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 62,
@@ -2292,7 +2963,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "quand",
+        "combien"
+      ],
+      "answer": 2,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 63,
@@ -2329,7 +3011,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "où",
+        "combien"
+      ],
+      "answer": 3,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 64,
@@ -2366,7 +3059,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "où",
+        "quand"
+      ],
+      "answer": 0,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 65,
@@ -2403,7 +3107,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "combien",
+        "droite",
+        "où",
+        "quand"
+      ],
+      "answer": 1,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 66,
@@ -2440,7 +3155,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "où",
+        "quand"
+      ],
+      "answer": 2,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 67,
@@ -2477,7 +3203,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "droite",
+        "quand"
+      ],
+      "answer": 3,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 68,
@@ -2514,7 +3251,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "droite",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 69,
@@ -2551,7 +3299,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "quand",
+        "gauche",
+        "droite",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 70,
@@ -2588,7 +3347,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "quand",
+        "combien",
+        "droite",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 71,
@@ -2625,7 +3395,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "quand",
+        "combien",
+        "gauche",
+        "où"
+      ],
+      "answer": 3,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 72,
@@ -2662,7 +3443,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "quand",
+        "combien",
+        "gauche",
+        "droite"
+      ],
+      "answer": 0,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 73,
@@ -2699,7 +3491,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "où",
+        "combien",
+        "gauche",
+        "droite"
+      ],
+      "answer": 1,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 74,
@@ -2736,7 +3539,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "où",
+        "quand",
+        "gauche",
+        "droite"
+      ],
+      "answer": 2,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 75,
@@ -2773,7 +3587,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "où",
+        "quand",
+        "combien",
+        "droite"
+      ],
+      "answer": 3,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 76,
@@ -2810,7 +3635,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "où",
+        "quand",
+        "combien",
+        "gauche"
+      ],
+      "answer": 0,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 77,
@@ -2847,7 +3683,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "droite",
+        "quand",
+        "combien",
+        "gauche"
+      ],
+      "answer": 1,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 78,
@@ -2884,7 +3731,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "droite",
+        "où",
+        "combien",
+        "gauche"
+      ],
+      "answer": 2,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 79,
@@ -2921,7 +3779,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "droite",
+        "où",
+        "quand",
+        "gauche"
+      ],
+      "answer": 3,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 80,
@@ -2958,7 +3827,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "droite",
+        "où",
+        "quand",
+        "combien"
+      ],
+      "answer": 0,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 81,
@@ -2995,7 +3875,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "gauche",
+        "où",
+        "quand",
+        "combien"
+      ],
+      "answer": 1,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 82,
@@ -3032,7 +3923,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "quand",
+        "combien"
+      ],
+      "answer": 2,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 83,
@@ -3069,7 +3971,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "où",
+        "combien"
+      ],
+      "answer": 3,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 84,
@@ -3106,7 +4019,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "gauche",
+        "droite",
+        "où",
+        "quand"
+      ],
+      "answer": 0,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 85,
@@ -3143,7 +4067,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "combien",
+        "droite",
+        "où",
+        "quand"
+      ],
+      "answer": 1,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 86,
@@ -3180,7 +4115,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « where » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "où",
+        "quand"
+      ],
+      "answer": 2,
+      "explanation": "« where » signifie « où ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 87,
@@ -3217,7 +4163,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « when » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "droite",
+        "quand"
+      ],
+      "answer": 3,
+      "explanation": "« when » signifie « quand ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 88,
@@ -3254,7 +4211,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « how much » en français ?",
+      "options": [
+        "combien",
+        "gauche",
+        "droite",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "« how much » signifie « combien ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 89,
@@ -3291,7 +4259,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « left » en français ?",
+      "options": [
+        "quand",
+        "gauche",
+        "droite",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "« left » signifie « gauche ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 90,
@@ -3328,7 +4307,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « right » en français ?",
+      "options": [
+        "quand",
+        "combien",
+        "droite",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "« right » signifie « droite ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 91,
@@ -3365,7 +4355,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "passeport",
+        "chambre",
+        "bagages",
+        "billet"
+      ],
+      "answer": 3,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 92,
@@ -3402,7 +4403,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "passeport",
+        "chambre",
+        "bagages",
+        "aide"
+      ],
+      "answer": 0,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 93,
@@ -3439,7 +4451,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "billet",
+        "chambre",
+        "bagages",
+        "aide"
+      ],
+      "answer": 1,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 94,
@@ -3476,7 +4499,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "bagages",
+        "aide"
+      ],
+      "answer": 2,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 95,
@@ -3513,7 +4547,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "chambre",
+        "aide"
+      ],
+      "answer": 3,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 96,
@@ -3550,7 +4595,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 0,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 97,
@@ -3587,7 +4643,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "aide",
+        "passeport",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 1,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 98,
@@ -3624,7 +4691,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 2,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 99,
@@ -3661,7 +4739,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "passeport",
+        "bagages"
+      ],
+      "answer": 3,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 100,
@@ -3698,7 +4787,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "passeport",
+        "chambre"
+      ],
+      "answer": 0,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 101,
@@ -3735,7 +4835,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "bagages",
+        "billet",
+        "passeport",
+        "chambre"
+      ],
+      "answer": 1,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 102,
@@ -3772,7 +4883,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "bagages",
+        "aide",
+        "passeport",
+        "chambre"
+      ],
+      "answer": 2,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 103,
@@ -3809,7 +4931,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "bagages",
+        "aide",
+        "billet",
+        "chambre"
+      ],
+      "answer": 3,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 104,
@@ -3846,7 +4979,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "bagages",
+        "aide",
+        "billet",
+        "passeport"
+      ],
+      "answer": 0,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 105,
@@ -3883,7 +5027,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "chambre",
+        "aide",
+        "billet",
+        "passeport"
+      ],
+      "answer": 1,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 106,
@@ -3920,7 +5075,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "chambre",
+        "bagages",
+        "billet",
+        "passeport"
+      ],
+      "answer": 2,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 107,
@@ -3957,7 +5123,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "chambre",
+        "bagages",
+        "aide",
+        "passeport"
+      ],
+      "answer": 3,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 108,
@@ -3994,7 +5171,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "chambre",
+        "bagages",
+        "aide",
+        "billet"
+      ],
+      "answer": 0,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 109,
@@ -4031,7 +5219,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "passeport",
+        "bagages",
+        "aide",
+        "billet"
+      ],
+      "answer": 1,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 110,
@@ -4068,7 +5267,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "passeport",
+        "chambre",
+        "aide",
+        "billet"
+      ],
+      "answer": 2,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 111,
@@ -4105,7 +5315,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "passeport",
+        "chambre",
+        "bagages",
+        "billet"
+      ],
+      "answer": 3,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 112,
@@ -4142,7 +5363,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "passeport",
+        "chambre",
+        "bagages",
+        "aide"
+      ],
+      "answer": 0,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 113,
@@ -4179,7 +5411,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "billet",
+        "chambre",
+        "bagages",
+        "aide"
+      ],
+      "answer": 1,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 114,
@@ -4216,7 +5459,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "bagages",
+        "aide"
+      ],
+      "answer": 2,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 115,
@@ -4253,7 +5507,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "chambre",
+        "aide"
+      ],
+      "answer": 3,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 116,
@@ -4290,7 +5555,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « ticket » en français ?",
+      "options": [
+        "billet",
+        "passeport",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 0,
+      "explanation": "« ticket » signifie « billet ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 117,
@@ -4327,7 +5603,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « passport » en français ?",
+      "options": [
+        "aide",
+        "passeport",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 1,
+      "explanation": "« passport » signifie « passeport ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 118,
@@ -4364,7 +5651,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « room » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "chambre",
+        "bagages"
+      ],
+      "answer": 2,
+      "explanation": "« room » signifie « chambre ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 119,
@@ -4401,7 +5699,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « luggage » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "passeport",
+        "bagages"
+      ],
+      "answer": 3,
+      "explanation": "« luggage » signifie « bagages ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 120,
@@ -4438,7 +5747,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « help » en français ?",
+      "options": [
+        "aide",
+        "billet",
+        "passeport",
+        "chambre"
+      ],
+      "answer": 0,
+      "explanation": "« help » signifie « aide ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 121,
@@ -4475,7 +5795,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "disponible",
+        "client",
+        "prix",
+        "réunion"
+      ],
+      "answer": 1,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 122,
@@ -4512,7 +5843,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "prix",
+        "réunion"
+      ],
+      "answer": 2,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 123,
@@ -4549,7 +5891,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "client",
+        "réunion"
+      ],
+      "answer": 3,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 124,
@@ -4586,7 +5939,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "client",
+        "prix"
+      ],
+      "answer": 0,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 125,
@@ -4623,7 +5987,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "réunion",
+        "envoyer",
+        "client",
+        "prix"
+      ],
+      "answer": 1,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 126,
@@ -4660,7 +6035,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "client",
+        "prix"
+      ],
+      "answer": 2,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 127,
@@ -4697,7 +6083,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "envoyer",
+        "prix"
+      ],
+      "answer": 3,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 128,
@@ -4734,7 +6131,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "envoyer",
+        "client"
+      ],
+      "answer": 0,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 129,
@@ -4771,7 +6179,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "prix",
+        "disponible",
+        "envoyer",
+        "client"
+      ],
+      "answer": 1,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 130,
@@ -4808,7 +6227,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "prix",
+        "réunion",
+        "envoyer",
+        "client"
+      ],
+      "answer": 2,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 131,
@@ -4845,7 +6275,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "prix",
+        "réunion",
+        "disponible",
+        "client"
+      ],
+      "answer": 3,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 132,
@@ -4882,7 +6323,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "prix",
+        "réunion",
+        "disponible",
+        "envoyer"
+      ],
+      "answer": 0,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 133,
@@ -4919,7 +6371,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "client",
+        "réunion",
+        "disponible",
+        "envoyer"
+      ],
+      "answer": 1,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 134,
@@ -4956,7 +6419,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "client",
+        "prix",
+        "disponible",
+        "envoyer"
+      ],
+      "answer": 2,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 135,
@@ -4993,7 +6467,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "client",
+        "prix",
+        "réunion",
+        "envoyer"
+      ],
+      "answer": 3,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 136,
@@ -5030,7 +6515,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "client",
+        "prix",
+        "réunion",
+        "disponible"
+      ],
+      "answer": 0,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 137,
@@ -5067,7 +6563,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "envoyer",
+        "prix",
+        "réunion",
+        "disponible"
+      ],
+      "answer": 1,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 138,
@@ -5104,7 +6611,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "envoyer",
+        "client",
+        "réunion",
+        "disponible"
+      ],
+      "answer": 2,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 139,
@@ -5141,7 +6659,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "envoyer",
+        "client",
+        "prix",
+        "disponible"
+      ],
+      "answer": 3,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 140,
@@ -5178,7 +6707,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "envoyer",
+        "client",
+        "prix",
+        "réunion"
+      ],
+      "answer": 0,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 141,
@@ -5215,7 +6755,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "disponible",
+        "client",
+        "prix",
+        "réunion"
+      ],
+      "answer": 1,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 142,
@@ -5252,7 +6803,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "prix",
+        "réunion"
+      ],
+      "answer": 2,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 143,
@@ -5289,7 +6851,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "client",
+        "réunion"
+      ],
+      "answer": 3,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 144,
@@ -5326,7 +6899,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "disponible",
+        "envoyer",
+        "client",
+        "prix"
+      ],
+      "answer": 0,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 145,
@@ -5363,7 +6947,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "réunion",
+        "envoyer",
+        "client",
+        "prix"
+      ],
+      "answer": 1,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 146,
@@ -5400,7 +6995,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « customer » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "client",
+        "prix"
+      ],
+      "answer": 2,
+      "explanation": "« customer » signifie « client ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 147,
@@ -5437,7 +7043,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « price » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "envoyer",
+        "prix"
+      ],
+      "answer": 3,
+      "explanation": "« price » signifie « prix ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 148,
@@ -5474,7 +7091,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « meeting » en français ?",
+      "options": [
+        "réunion",
+        "disponible",
+        "envoyer",
+        "client"
+      ],
+      "answer": 0,
+      "explanation": "« meeting » signifie « réunion ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 149,
@@ -5511,7 +7139,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « available » en français ?",
+      "options": [
+        "prix",
+        "disponible",
+        "envoyer",
+        "client"
+      ],
+      "answer": 1,
+      "explanation": "« available » signifie « disponible ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 150,
@@ -5548,7 +7187,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « send » en français ?",
+      "options": [
+        "prix",
+        "réunion",
+        "envoyer",
+        "client"
+      ],
+      "answer": 2,
+      "explanation": "« send » signifie « envoyer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 151,
@@ -5585,7 +7235,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "demain",
+        "avis",
+        "parce que",
+        "hier"
+      ],
+      "answer": 3,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 152,
@@ -5622,7 +7283,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "demain",
+        "avis",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 0,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 153,
@@ -5659,7 +7331,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "hier",
+        "avis",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 1,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 154,
@@ -5696,7 +7379,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 2,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 155,
@@ -5733,7 +7427,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "avis",
+        "améliorer"
+      ],
+      "answer": 3,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 156,
@@ -5770,7 +7475,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "avis",
+        "parce que"
+      ],
+      "answer": 0,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 157,
@@ -5807,7 +7523,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "améliorer",
+        "demain",
+        "avis",
+        "parce que"
+      ],
+      "answer": 1,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 158,
@@ -5844,7 +7571,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "avis",
+        "parce que"
+      ],
+      "answer": 2,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 159,
@@ -5881,7 +7619,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "demain",
+        "parce que"
+      ],
+      "answer": 3,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 160,
@@ -5918,7 +7667,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "demain",
+        "avis"
+      ],
+      "answer": 0,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 161,
@@ -5955,7 +7715,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "parce que",
+        "hier",
+        "demain",
+        "avis"
+      ],
+      "answer": 1,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 162,
@@ -5992,7 +7763,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "parce que",
+        "améliorer",
+        "demain",
+        "avis"
+      ],
+      "answer": 2,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 163,
@@ -6029,7 +7811,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "parce que",
+        "améliorer",
+        "hier",
+        "avis"
+      ],
+      "answer": 3,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 164,
@@ -6066,7 +7859,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "parce que",
+        "améliorer",
+        "hier",
+        "demain"
+      ],
+      "answer": 0,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 165,
@@ -6103,7 +7907,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "avis",
+        "améliorer",
+        "hier",
+        "demain"
+      ],
+      "answer": 1,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 166,
@@ -6140,7 +7955,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "avis",
+        "parce que",
+        "hier",
+        "demain"
+      ],
+      "answer": 2,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 167,
@@ -6177,7 +8003,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "avis",
+        "parce que",
+        "améliorer",
+        "demain"
+      ],
+      "answer": 3,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 168,
@@ -6214,7 +8051,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "avis",
+        "parce que",
+        "améliorer",
+        "hier"
+      ],
+      "answer": 0,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 169,
@@ -6251,7 +8099,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "demain",
+        "parce que",
+        "améliorer",
+        "hier"
+      ],
+      "answer": 1,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 170,
@@ -6288,7 +8147,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "demain",
+        "avis",
+        "améliorer",
+        "hier"
+      ],
+      "answer": 2,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 171,
@@ -6325,7 +8195,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "demain",
+        "avis",
+        "parce que",
+        "hier"
+      ],
+      "answer": 3,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 172,
@@ -6362,7 +8243,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "demain",
+        "avis",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 0,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 173,
@@ -6399,7 +8291,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "hier",
+        "avis",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 1,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 174,
@@ -6436,7 +8339,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "parce que",
+        "améliorer"
+      ],
+      "answer": 2,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 175,
@@ -6473,7 +8387,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "avis",
+        "améliorer"
+      ],
+      "answer": 3,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 176,
@@ -6510,7 +8435,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « yesterday » en français ?",
+      "options": [
+        "hier",
+        "demain",
+        "avis",
+        "parce que"
+      ],
+      "answer": 0,
+      "explanation": "« yesterday » signifie « hier ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 177,
@@ -6547,7 +8483,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « tomorrow » en français ?",
+      "options": [
+        "améliorer",
+        "demain",
+        "avis",
+        "parce que"
+      ],
+      "answer": 1,
+      "explanation": "« tomorrow » signifie « demain ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 178,
@@ -6584,7 +8531,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français.",
+    "quiz": {
+      "question": "Que signifie « opinion » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "avis",
+        "parce que"
+      ],
+      "answer": 2,
+      "explanation": "« opinion » signifie « avis ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 179,
@@ -6621,7 +8579,18 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases.",
+    "quiz": {
+      "question": "Que signifie « because » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "demain",
+        "parce que"
+      ],
+      "answer": 3,
+      "explanation": "« because » signifie « parce que ». Répète le mot et crée une phrase avec lui."
+    }
   },
   {
     "day": 180,
@@ -6658,6 +8627,17 @@ window.ENGLISH_COACH_LESSONS = [
       "20 min : fais le dialogue ou l’exercice oral de la journée.",
       "15 min : écris 3 à 5 phrases et corrige-les."
     ],
-    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation.",
+    "quiz": {
+      "question": "Que signifie « improve » en français ?",
+      "options": [
+        "améliorer",
+        "hier",
+        "demain",
+        "avis"
+      ],
+      "answer": 0,
+      "explanation": "« improve » signifie « améliorer ». Répète le mot et crée une phrase avec lui."
+    }
   }
 ];
