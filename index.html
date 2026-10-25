@@ -25,7 +25,7 @@ button{background:var(--green);color:white;border:0;cursor:pointer}
 .task span{line-height:1.5}
 .muted{color:#66776e;font-size:14px}
 footer{text-align:center;padding:24px;color:#66776e}
-.vocab-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.vocab-item{background:#f0f6f1;border-radius:10px;padding:10px}.vocab-item strong{display:block;color:#123c35}.lesson-note{background:#fff8e5;border-left:4px solid #f3c969;padding:12px;border-radius:8px;line-height:1.6}
+.vocab-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.vocab-item{background:#f0f6f1;border-radius:10px;padding:10px}.vocab-item strong{display:block;color:#123c35}.lesson-note{background:#fff8e5;border-left:4px solid #f3c969;padding:12px;border-radius:8px;line-height:1.6}.quiz-option{display:block;width:100%;text-align:left;background:#f0f6f1;color:#18352f;border:1px solid #d5e3d9;margin:7px 0}.quiz-option:focus{outline:2px solid #23836b}.quiz-result{font-weight:bold;margin:10px 0}
 </style>
 </head>
 <body>
@@ -49,7 +49,7 @@ footer{text-align:center;padding:24px;color:#66776e}
 <section class="card">
 <h2 id="lessonTitle">Ta leçon du jour</h2>
 <p id="theme"></p>
-<div id="lessonContent"></div>
+<div id="lessonContent"></div>\n<div id="quizContent"></div>
 <p class="muted">Coche chaque activité après l’avoir terminée. Ta progression est sauvegardée sur cet appareil.</p>
 <div id="tasks"></div>
 <button id="save">Enregistrer ma journée</button>
@@ -103,6 +103,21 @@ function render(){
  if(lesson){
   content.innerHTML="<div class='lesson-note'><strong>Objectif du jour</strong><br>"+lesson.objective+"</div><h3>Phrase modèle</h3><div class='lesson-note'>"+lesson.example+"</div><h3>Vocabulaire à réviser</h3><div class='vocab-grid'>"+lesson.vocabulary.map(w=>"<div class='vocab-item'><strong>"+w.en+"</strong><span>"+w.fr+"</span></div>").join("")+"</div><h3>Défi du jour</h3><p>"+lesson.challenge+"</p><h3>Programme des 90 minutes</h3><ol>"+lesson.routine.map(item=>"<li>"+item+"</li>").join("")+"</ol>";
  }else{content.innerHTML="";}
+ const quizBox=document.getElementById("quizContent");
+ if(lesson && lesson.quiz){
+  quizBox.innerHTML="<h3>🧠 Mini-quiz du jour</h3><p>"+lesson.quiz.question+"</p><div id='quizOptions'></div><p id='quizResult' class='quiz-result' aria-live='polite'></p>";
+  const optionsBox=quizBox.querySelector("#quizOptions");
+  lesson.quiz.options.forEach((option,index)=>{
+   const button=document.createElement("button");
+   button.type="button";button.className="quiz-option";button.textContent=option;
+   button.addEventListener("click",()=>{
+    const result=quizBox.querySelector("#quizResult");
+    if(index===lesson.quiz.answer){result.textContent="✅ Bonne réponse ! "+lesson.quiz.explanation;result.style.color="#176b45";}
+    else{result.textContent="Pas tout à fait. Réessaie : relis le vocabulaire ci-dessus.";result.style.color="#8a493b";}
+   });
+   optionsBox.appendChild(button);
+  });
+ }else{quizBox.innerHTML="";}
  const tasks=document.getElementById("tasks");tasks.innerHTML="";
  activities.forEach((a,i)=>{
   const label=document.createElement("label");label.className="task";
