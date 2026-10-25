@@ -25,6 +25,7 @@ button{background:var(--green);color:white;border:0;cursor:pointer}
 .task span{line-height:1.5}
 .muted{color:#66776e;font-size:14px}
 footer{text-align:center;padding:24px;color:#66776e}
+.vocab-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.vocab-item{background:#f0f6f1;border-radius:10px;padding:10px}.vocab-item strong{display:block;color:#123c35}.lesson-note{background:#fff8e5;border-left:4px solid #f3c969;padding:12px;border-radius:8px;line-height:1.6}
 </style>
 </head>
 <body>
@@ -48,6 +49,7 @@ footer{text-align:center;padding:24px;color:#66776e}
 <section class="card">
 <h2 id="lessonTitle">Ta leçon du jour</h2>
 <p id="theme"></p>
+<div id="lessonContent"></div>
 <p class="muted">Coche chaque activité après l’avoir terminée. Ta progression est sauvegardée sur cet appareil.</p>
 <div id="tasks"></div>
 <button id="save">Enregistrer ma journée</button>
@@ -68,6 +70,7 @@ footer{text-align:center;padding:24px;color:#66776e}
 </section>
 </main>
 <footer>English Coach · Un petit progrès chaque jour compte.</footer>
+<script src="lessons.js"></script>
 <script>
 const phases=[
 {title:"Les bases",themes:["Salutations et présentations","Alphabet et prononciation","Nombres et âge","Pays et nationalités","Pronoms personnels","Verbe to be","Questions simples","Famille et amis","Objets quotidiens","Révision des bases"]},
@@ -93,8 +96,13 @@ for(let i=1;i<=180;i++){
 function phaseFor(d){return Math.min(5,Math.floor((d-1)/30))}
 function render(){
  const d=Number(daySelect.value||1),p=phaseFor(d),n=(d-1)%10;
- document.getElementById("lessonTitle").textContent="Jour "+d+" — "+phases[p].themes[n];
- document.getElementById("theme").textContent="Étape "+(p+1)+"/6 : "+phases[p].title;
+ const lesson=(window.ENGLISH_COACH_LESSONS||[]).find(item=>item.day===d);
+ document.getElementById("lessonTitle").textContent="Jour "+d+" — "+(lesson?lesson.title:phases[p].themes[n]);
+ document.getElementById("theme").textContent=(lesson?lesson.month:"Étape "+(p+1)+"/6 : "+phases[p].title)+" · Objectif : "+(lesson?lesson.objective:"pratiquer l’anglais chaque jour.");
+ const content=document.getElementById("lessonContent");
+ if(lesson){
+  content.innerHTML="<div class='lesson-note'><strong>Objectif du jour</strong><br>"+lesson.objective+"</div><h3>Phrase modèle</h3><div class='lesson-note'>"+lesson.example+"</div><h3>Vocabulaire à réviser</h3><div class='vocab-grid'>"+lesson.vocabulary.map(w=>"<div class='vocab-item'><strong>"+w.en+"</strong><span>"+w.fr+"</span></div>").join("")+"</div><h3>Défi du jour</h3><p>"+lesson.challenge+"</p><h3>Programme des 90 minutes</h3><ol>"+lesson.routine.map(item=>"<li>"+item+"</li>").join("")+"</ol>";
+ }else{content.innerHTML="";}
  const tasks=document.getElementById("tasks");tasks.innerHTML="";
  activities.forEach((a,i)=>{
   const label=document.createElement("label");label.className="task";
