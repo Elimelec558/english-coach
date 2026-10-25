@@ -26,7 +26,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "Hello! My name is Emmanuel. — Bonjour ! Je m’appelle Emmanuel.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 2,
@@ -54,7 +63,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "Nice to meet you. — Enchanté de vous rencontrer.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 3,
@@ -82,7 +100,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "What is your name? — Comment vous appelez-vous ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 4,
@@ -110,7 +137,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "I am fine, thank you. — Je vais bien, merci.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 5,
@@ -138,7 +174,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "A, B, C… — Répète l’alphabet lentement.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 6,
@@ -166,7 +211,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "Can you spell your name? — Peux-tu épeler ton nom ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 7,
@@ -194,7 +248,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "Think, this, hello, red. — Écoute puis répète ces sons.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 8,
@@ -222,7 +285,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "I have twelve books. — J’ai douze livres.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 9,
@@ -250,7 +322,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "I am twenty years old. — J’ai vingt ans.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 10,
@@ -278,7 +359,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "I am from Burkina Faso. — Je viens du Burkina Faso.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 11,
@@ -306,7 +396,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "I, you, he, she, we, they. — Répète les pronoms.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 12,
@@ -334,7 +433,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "I am a student. — Je suis étudiant.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 13,
@@ -362,7 +470,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "She is not at home. — Elle n’est pas à la maison.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 14,
@@ -390,7 +507,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "Are you ready? — Es-tu prêt ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 15,
@@ -418,7 +544,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "It is an apple. — C’est une pomme.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 16,
@@ -446,7 +581,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "This is a pen. — C’est un stylo.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 17,
@@ -474,7 +618,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "The bag is blue. — Le sac est bleu.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 18,
@@ -502,7 +655,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "Today is Monday. — Aujourd’hui, nous sommes lundi.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 19,
@@ -530,7 +692,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "My birthday is in May. — Mon anniversaire est en mai.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 20,
@@ -558,7 +729,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "It is seven o’clock. — Il est sept heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 21,
@@ -586,7 +766,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "This is my sister. — Voici ma sœur.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 22,
@@ -614,7 +803,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "My name is… / Your name is… — Mon nom / ton nom.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 23,
@@ -642,7 +840,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "He is tall and friendly. — Il est grand et sympathique.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 24,
@@ -670,7 +877,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "One book, two books. — Un livre, deux livres.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 25,
@@ -698,7 +914,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "This is my phone. Those are my keys. — Voici mon téléphone. Là-bas, mes clés.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 26,
@@ -726,7 +951,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "sorry",
         "fr": "désolé"
       }
-    ]
+    ],
+    "example": "I am a teacher. — Je suis enseignant.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 27,
@@ -754,7 +988,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "hello",
         "fr": "bonjour"
       }
-    ]
+    ],
+    "example": "I live in Ouagadougou. — J’habite à Ouagadougou.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 28,
@@ -782,7 +1025,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "goodbye",
         "fr": "au revoir"
       }
-    ]
+    ],
+    "example": "How do you say this in English? — Comment dit-on cela en anglais ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 29,
@@ -810,7 +1062,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "please",
         "fr": "s’il te plaît"
       }
-    ]
+    ],
+    "example": "Hello, my name is… I am from… — Présente-toi en trois phrases.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 30,
@@ -838,7 +1099,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "thank you",
         "fr": "merci"
       }
-    ]
+    ],
+    "example": "Présente-toi sans lire : nom, origine, âge et profession.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 31,
@@ -866,7 +1136,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "I wake up at six. — Je me réveille à six heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 32,
@@ -894,7 +1173,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "I wash my face and get dressed. — Je me lave le visage et m’habille.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 33,
@@ -922,7 +1210,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "I work every day. — Je travaille chaque jour.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 34,
@@ -950,7 +1247,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "He works in a shop. — Il travaille dans une boutique.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 35,
@@ -978,7 +1284,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "I don’t drink coffee. — Je ne bois pas de café.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 36,
@@ -1006,7 +1321,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "Do you speak English? — Parles-tu anglais ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 37,
@@ -1034,7 +1358,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "I start work at eight. — Je commence le travail à huit heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 38,
@@ -1062,7 +1395,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "I go home in the evening. — Je rentre à la maison le soir.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 39,
@@ -1090,7 +1432,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "I usually walk to work. — D’habitude, je vais au travail à pied.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 40,
@@ -1118,7 +1469,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "I have breakfast at seven. — Je prends le petit-déjeuner à sept heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 41,
@@ -1146,7 +1506,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "Water, rice, bread, eggs, fruit. — Eau, riz, pain, œufs, fruits.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 42,
@@ -1174,7 +1543,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "I like mangoes, but I don’t like onions. — J’aime les mangues, mais pas les oignons.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 43,
@@ -1202,7 +1580,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "I’d like some water. — Je voudrais de l’eau.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 44,
@@ -1230,7 +1617,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "Can I have a cup of tea, please? — Puis-je avoir une tasse de thé ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 45,
@@ -1258,7 +1654,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "It costs fifty cedis. — Cela coûte cinquante unités monétaires.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 46,
@@ -1286,7 +1691,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "How much is this? — Combien cela coûte-t-il ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 47,
@@ -1314,7 +1728,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "Do you have this shirt in large? — Avez-vous cette chemise en grande taille ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 48,
@@ -1342,7 +1765,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "The kitchen is next to the living room. — La cuisine est à côté du salon.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 49,
@@ -1370,7 +1802,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "There is a table and two chairs. — Il y a une table et deux chaises.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 50,
@@ -1398,7 +1839,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "There are three windows. — Il y a trois fenêtres.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 51,
@@ -1426,7 +1876,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "I have got a new phone. — J’ai un nouveau téléphone.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 52,
@@ -1454,7 +1913,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "My house has two bedrooms. — Ma maison a deux chambres.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 53,
@@ -1482,7 +1950,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "The keys are on the table. — Les clés sont sur la table.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 54,
@@ -1510,7 +1987,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "The room is clean and bright. — La pièce est propre et lumineuse.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 55,
@@ -1538,7 +2024,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "This bag is cheaper than that one. — Ce sac est moins cher que celui-là.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 56,
@@ -1566,7 +2061,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "study",
         "fr": "étudier"
       }
-    ]
+    ],
+    "example": "It is hot and sunny today. — Il fait chaud et ensoleillé aujourd’hui.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 57,
@@ -1594,7 +2098,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "wake up",
         "fr": "se réveiller"
       }
-    ]
+    ],
+    "example": "Would you like to have lunch with me? — Veux-tu déjeuner avec moi ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 58,
@@ -1622,7 +2135,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "eat",
         "fr": "manger"
       }
-    ]
+    ],
+    "example": "Sorry, I can’t today. Maybe tomorrow. — Désolé, pas aujourd’hui. Peut-être demain.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 59,
@@ -1650,7 +2172,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "drink",
         "fr": "boire"
       }
-    ]
+    ],
+    "example": "Décris ta matinée avec cinq phrases au présent simple.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 60,
@@ -1678,7 +2209,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "work",
         "fr": "travailler"
       }
-    ]
+    ],
+    "example": "Explique ta journée habituelle du réveil au coucher.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 61,
@@ -1706,7 +2246,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "Who is that man? — Qui est cet homme ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 62,
@@ -1734,7 +2283,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "How do you get to work? — Comment vas-tu au travail ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 63,
@@ -1762,7 +2320,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "Where do you live? — Où habites-tu ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 64,
@@ -1790,7 +2357,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "I enjoy listening to music. — J’aime écouter de la musique.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 65,
@@ -1818,7 +2394,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "I play football on weekends. — Je joue au football le week-end.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 66,
@@ -1846,7 +2431,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "I can swim, but I can’t drive. — Je sais nager, mais je ne sais pas conduire.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 67,
@@ -1874,7 +2468,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "Could I use your phone, please? — Pourrais-je utiliser ton téléphone ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 68,
@@ -1902,7 +2505,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "Go straight and turn left. — Va tout droit et tourne à gauche.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 69,
@@ -1930,7 +2542,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "The bank is opposite the pharmacy. — La banque est en face de la pharmacie.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 70,
@@ -1958,7 +2579,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "Turn right at the traffic lights. — Tourne à droite au feu.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 71,
@@ -1986,7 +2616,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "Please wait here. — Attends ici, s’il te plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 72,
@@ -2014,7 +2653,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "Do you have these shoes in size 42? — Avez-vous ces chaussures en 42 ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 73,
@@ -2042,7 +2690,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "Could you make it a little cheaper? — Pourriez-vous baisser un peu le prix ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 74,
@@ -2070,7 +2727,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "I’ll pay by mobile money. — Je vais payer par mobile money.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 75,
@@ -2098,7 +2764,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "Could I see the menu, please? — Puis-je voir le menu ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 76,
@@ -2126,7 +2801,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "I’d like grilled chicken and rice. — Je voudrais du poulet grillé et du riz.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 77,
@@ -2154,7 +2838,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "I don’t eat meat. — Je ne mange pas de viande.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 78,
@@ -2182,7 +2875,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "How many bottles do we need? — De combien de bouteilles avons-nous besoin ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 79,
@@ -2210,7 +2912,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "Yesterday, I visited my friend. — Hier, j’ai rendu visite à mon ami.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 80,
@@ -2238,7 +2949,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "I stayed home because it was raining. — Je suis resté à la maison parce qu’il pleuvait.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 81,
@@ -2266,7 +2986,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "It was a good experience. — C’était une bonne expérience.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 82,
@@ -2294,7 +3023,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "Could I speak to Mr. Diallo, please? — Puis-je parler à M. Diallo ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 83,
@@ -2322,7 +3060,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "Please tell him I called. — Dites-lui que j’ai appelé, s’il vous plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 84,
@@ -2350,7 +3097,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "Could you speak more slowly? — Pourriez-vous parler plus lentement ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 85,
@@ -2378,7 +3134,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "Could you repeat that, please? — Pourriez-vous répéter, s’il vous plaît ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 86,
@@ -2406,7 +3171,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "right",
         "fr": "droite"
       }
-    ]
+    ],
+    "example": "My friend is funny and helpful. — Mon ami est drôle et serviable.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 87,
@@ -2434,7 +3208,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "where",
         "fr": "où"
       }
-    ]
+    ],
+    "example": "In this picture, I can see a family. — Sur cette photo, je vois une famille.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 88,
@@ -2462,7 +3245,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "when",
         "fr": "quand"
       }
-    ]
+    ],
+    "example": "Hi, I’m new here. What’s your name? — Salut, je suis nouveau ici. Comment t’appelles-tu ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 89,
@@ -2490,7 +3282,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "how much",
         "fr": "combien"
       }
-    ]
+    ],
+    "example": "Joue trois dialogues : dans la rue, au magasin et au restaurant.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 90,
@@ -2518,7 +3319,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "left",
         "fr": "gauche"
       }
-    ]
+    ],
+    "example": "Choisis une situation et tiens une conversation de deux minutes.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 91,
@@ -2546,7 +3356,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "I’d like to check in, please. — Je voudrais m’enregistrer, s’il vous plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 92,
@@ -2574,7 +3393,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "Here is my passport. — Voici mon passeport.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 93,
@@ -2602,7 +3430,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "Is this the boarding gate for flight 205? — Est-ce la porte d’embarquement du vol 205 ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 94,
@@ -2630,7 +3467,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "What time does boarding start? — À quelle heure l’embarquement commence-t-il ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 95,
@@ -2658,7 +3504,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "Could I have some water, please? — Pourrais-je avoir de l’eau ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 96,
@@ -2686,7 +3541,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "I’m here for a holiday. — Je suis ici pour les vacances.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 97,
@@ -2714,7 +3578,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "I have a reservation under the name… — J’ai une réservation au nom de…",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 98,
@@ -2742,7 +3615,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "What time is breakfast? — À quelle heure est le petit-déjeuner ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 99,
@@ -2770,7 +3652,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "The air conditioner isn’t working. — La climatisation ne fonctionne pas.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 100,
@@ -2798,7 +3689,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "Where is the bus station? — Où est la gare routière ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 101,
@@ -2826,7 +3726,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "Please take me to this address. — Conduisez-moi à cette adresse, s’il vous plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 102,
@@ -2854,7 +3763,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "Is it far from here? — Est-ce loin d’ici ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 103,
@@ -2882,7 +3800,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "Go past the bank and turn right. — Dépasse la banque et tourne à droite.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 104,
@@ -2910,7 +3837,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "What time does the museum close? — À quelle heure le musée ferme-t-il ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 105,
@@ -2938,7 +3874,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "One ticket to the city centre, please. — Un billet pour le centre-ville, s’il vous plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 106,
@@ -2966,7 +3911,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "Could I book a table for two? — Puis-je réserver une table pour deux ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 107,
@@ -2994,7 +3948,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "I’m allergic to peanuts. — Je suis allergique aux arachides.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 108,
@@ -3022,7 +3985,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "Could we have the bill, please? — Pourrions-nous avoir l’addition ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 109,
@@ -3050,7 +4022,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "Can I exchange money here? — Puis-je changer de l’argent ici ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 110,
@@ -3078,7 +4059,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "Do you accept cards? — Acceptez-vous les cartes ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 111,
@@ -3106,7 +4096,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "I think I’m lost. Could you help me? — Je crois que je suis perdu. Pouvez-vous m’aider ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 112,
@@ -3134,7 +4133,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "Please call the police. — Appelez la police, s’il vous plaît.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 113,
@@ -3162,7 +4170,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "I need a pharmacy. — J’ai besoin d’une pharmacie.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 114,
@@ -3190,7 +4207,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "She is waiting for the bus now. — Elle attend le bus en ce moment.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 115,
@@ -3218,7 +4244,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "I usually take a bus, but today I’m walking. — D’habitude je prends le bus, mais aujourd’hui je marche.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 116,
@@ -3246,7 +4281,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "help",
         "fr": "aide"
       }
-    ]
+    ],
+    "example": "We were tired after the flight. — Nous étions fatigués après le vol.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 117,
@@ -3274,7 +4318,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "ticket",
         "fr": "billet"
       }
-    ]
+    ],
+    "example": "I visited the old town yesterday. — J’ai visité la vieille ville hier.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 118,
@@ -3302,7 +4355,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "passport",
         "fr": "passeport"
       }
-    ]
+    ],
+    "example": "I went to the hotel by taxi. — Je suis allé à l’hôtel en taxi.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 119,
@@ -3330,7 +4392,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "room",
         "fr": "chambre"
       }
-    ]
+    ],
+    "example": "Raconte un voyage imaginaire : arrivée, hôtel, repas et transport.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 120,
@@ -3358,7 +4429,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "luggage",
         "fr": "bagages"
       }
-    ]
+    ],
+    "example": "Simule un séjour de deux minutes en anglais.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 121,
@@ -3386,7 +4466,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "I’m Emmanuel, and I work in sales. — Je suis Emmanuel et je travaille dans la vente.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 122,
@@ -3414,7 +4503,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "I work in a small company. — Je travaille dans une petite entreprise.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 123,
@@ -3442,7 +4540,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "I’m good at solving problems. — Je suis doué pour résoudre les problèmes.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 124,
@@ -3470,7 +4577,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "I have experience with computers. — J’ai de l’expérience avec les ordinateurs.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 125,
@@ -3498,7 +4614,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "I’m writing to ask for more information. — J’écris pour demander plus d’informations.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 126,
@@ -3526,7 +4651,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "Dear Sir or Madam… Best regards… — Madame, Monsieur… Cordialement…",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 127,
@@ -3554,7 +4688,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "Welcome! How can I help you today? — Bienvenue ! Comment puis-je vous aider ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 128,
@@ -3582,7 +4725,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "What kind of computer do you need? — De quel type d’ordinateur avez-vous besoin ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 129,
@@ -3610,7 +4762,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "This laptop is fast and reliable. — Cet ordinateur est rapide et fiable.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 130,
@@ -3638,7 +4799,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "It has 16 GB of RAM and a 512 GB SSD. — Il possède 16 Go de RAM et un SSD de 512 Go.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 131,
@@ -3666,7 +4836,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "The promotional price is 295,000 francs. — Le prix promotionnel est de 295 000 francs.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 132,
@@ -3694,7 +4873,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "I can offer you a small discount. — Je peux vous accorder une petite remise.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 133,
@@ -3722,7 +4910,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "May I speak to the manager, please? — Puis-je parler au responsable ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 134,
@@ -3750,7 +4947,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "Are we still meeting at three? — Notre rendez-vous est-il toujours prévu à quinze heures ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 135,
@@ -3778,7 +4984,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "I’m available on Tuesday morning. — Je suis disponible mardi matin.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 136,
@@ -3806,7 +5021,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "Please restart the computer and try again. — Redémarre l’ordinateur et réessaie.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 137,
@@ -3834,7 +5058,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "Could you clarify the delivery date? — Pourriez-vous préciser la date de livraison ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 138,
@@ -3862,7 +5095,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "I understand your point, but I suggest another option. — Je comprends votre point de vue, mais je propose une autre option.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 139,
@@ -3890,7 +5132,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "Let’s review the sales figures. — Examinons les chiffres de vente.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 140,
@@ -3918,7 +5169,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "The order is ready, but delivery is delayed. — La commande est prête, mais la livraison est retardée.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 141,
@@ -3946,7 +5206,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "I’m sorry for the delay. — Je suis désolé pour le retard.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 142,
@@ -3974,7 +5243,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "Let me check the issue and get back to you. — Je vais vérifier le problème et vous recontacter.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 143,
@@ -4002,7 +5280,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "This model is cheaper, while that one is more powerful. — Ce modèle est moins cher, tandis que l’autre est plus puissant.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 144,
@@ -4030,7 +5317,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "This laptop is ideal for work because it is portable. — Cet ordinateur est idéal pour le travail car il est portable.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 145,
@@ -4058,7 +5354,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "Please attach the file to your email. — Joignez le fichier à votre e-mail.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 146,
@@ -4086,7 +5391,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "send",
         "fr": "envoyer"
       }
-    ]
+    ],
+    "example": "The computer needs an update. — L’ordinateur a besoin d’une mise à jour.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 147,
@@ -4114,7 +5428,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "customer",
         "fr": "client"
       }
-    ]
+    ],
+    "example": "Never share your password. — Ne partage jamais ton mot de passe.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 148,
@@ -4142,7 +5465,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "price",
         "fr": "prix"
       }
-    ]
+    ],
+    "example": "Tell me about yourself and your skills. — Parlez-moi de vous et de vos compétences.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 149,
@@ -4170,7 +5502,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "meeting",
         "fr": "réunion"
       }
-    ]
+    ],
+    "example": "Présente un ordinateur à un client, réponds à deux questions et conclus la vente.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 150,
@@ -4198,7 +5539,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "available",
         "fr": "disponible"
       }
-    ]
+    ],
+    "example": "Fais une simulation de vente de trois minutes en anglais.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 151,
@@ -4226,7 +5576,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "Yesterday, I worked, cooked, and watched a film. — Hier, j’ai travaillé, cuisiné et regardé un film.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 152,
@@ -4254,7 +5613,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "Last weekend, I visited my family. — Le week-end dernier, j’ai rendu visite à ma famille.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 153,
@@ -4282,7 +5650,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "I’m going to study English tonight. — Je vais étudier l’anglais ce soir.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 154,
@@ -4310,7 +5687,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "I think it will rain tomorrow. — Je pense qu’il pleuvra demain.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 155,
@@ -4338,7 +5724,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "My goal is to speak English confidently. — Mon objectif est de parler anglais avec assurance.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 156,
@@ -4366,7 +5761,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "In my opinion, practice is very important. — À mon avis, la pratique est très importante.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 157,
@@ -4394,7 +5798,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "I agree with you because it makes sense. — Je suis d’accord car c’est logique.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 158,
@@ -4422,7 +5835,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "You should practise every day. — Tu devrais pratiquer chaque jour.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 159,
@@ -4450,7 +5872,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "I have to leave at six. — Je dois partir à six heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 160,
@@ -4478,7 +5909,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "Could you help me, please? — Pourrais-tu m’aider, s’il te plaît ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 161,
@@ -4506,7 +5946,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "If I have time, I will call you. — Si j’ai le temps, je t’appellerai.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 162,
@@ -4534,7 +5983,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "I was tired, so I went to bed early. — J’étais fatigué, donc je me suis couché tôt.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 163,
@@ -4562,7 +6020,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "She is patient and hardworking. — Elle est patiente et travailleuse.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 164,
@@ -4590,7 +6057,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "The market is busy, colourful, and noisy. — Le marché est animé, coloré et bruyant.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 165,
@@ -4618,7 +6094,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "Listen once for the main idea, then listen again for details. — Écoute pour comprendre l’idée générale, puis les détails.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 166,
@@ -4646,7 +6131,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "Listen for names, numbers, places, and times. — Repère les noms, nombres, lieux et heures.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 167,
@@ -4674,7 +6168,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "Say PREsent (noun) and preSENT (verb). — L’accent tonique peut changer le sens.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 168,
@@ -4702,7 +6205,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "Practise “Would you like a cup of tea?” without pausing between every word. — Enchaîne les mots naturellement.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 169,
@@ -4730,7 +6242,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "Read a short text and explain its main idea in two sentences. — Résume un texte court en deux phrases.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 170,
@@ -4758,7 +6279,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "Write eight connected sentences about your week. — Écris huit phrases liées sur ta semaine.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 171,
@@ -4786,7 +6316,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "I went to the shop yesterday. — Attention : pas “I goed”; le passé de go est went.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 172,
@@ -4814,7 +6353,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "I’d like to book a room for two nights. — Je voudrais réserver une chambre pour deux nuits.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 173,
@@ -4842,7 +6390,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "Could you tell me more about the job? — Pourriez-vous m’en dire plus sur le poste ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 174,
@@ -4870,7 +6427,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "I usually work in the morning, but today I’m resting. — D’habitude je travaille le matin, mais aujourd’hui je me repose.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 175,
@@ -4898,7 +6464,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "I started learning English six months ago. — J’ai commencé à apprendre l’anglais il y a six mois.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 176,
@@ -4926,7 +6501,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "improve",
         "fr": "améliorer"
       }
-    ]
+    ],
+    "example": "The bus is late; I’ll call the hotel. — Le bus est en retard ; j’appellerai l’hôtel.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 177,
@@ -4954,7 +6538,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "yesterday",
         "fr": "hier"
       }
-    ]
+    ],
+    "example": "Could you reduce the price if I buy two? — Pouvez-vous réduire le prix si j’en achète deux ?",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   },
   {
     "day": 178,
@@ -4982,7 +6575,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "tomorrow",
         "fr": "demain"
       }
-    ]
+    ],
+    "example": "Parle cinq minutes : présente-toi, raconte hier et explique tes projets.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Lis la phrase modèle trois fois, puis cache la traduction et explique-la en français."
   },
   {
     "day": 179,
@@ -5010,7 +6612,16 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "opinion",
         "fr": "avis"
       }
-    ]
+    ],
+    "example": "Réponds à des questions simples, écris un paragraphe et présente-toi à voix haute.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Change un mot de la phrase modèle pour créer deux nouvelles phrases."
   },
   {
     "day": 180,
@@ -5038,6 +6649,15 @@ window.ENGLISH_COACH_LESSONS = [
         "en": "because",
         "fr": "parce que"
       }
-    ]
+    ],
+    "example": "Félicitations ! Compare tes progrès au jour 1 et définis tes prochains objectifs.",
+    "routine": [
+      "15 min : révise les mots des jours précédents.",
+      "20 min : étudie la phrase modèle et répète-la à voix haute.",
+      "20 min : écoute de l’anglais lent et répète les phrases.",
+      "20 min : fais le dialogue ou l’exercice oral de la journée.",
+      "15 min : écris 3 à 5 phrases et corrige-les."
+    ],
+    "challenge": "Enregistre-toi en train de dire la phrase modèle, puis écoute ta prononciation."
   }
 ];
