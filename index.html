@@ -101,7 +101,7 @@ function render(){
  document.getElementById("theme").textContent=(lesson?lesson.month:"Étape "+(p+1)+"/6 : "+phases[p].title)+" · Objectif : "+(lesson?lesson.objective:"pratiquer l’anglais chaque jour.");
  const content=document.getElementById("lessonContent");
  if(lesson){
-  content.innerHTML="<div class='lesson-note'><strong>À retenir</strong><br>"+lesson.objective+"</div><h3>Vocabulaire à réviser</h3><div class='vocab-grid'>"+lesson.vocabulary.map(w=>"<div class='vocab-item'><strong>"+w.en+"</strong><span>"+w.fr+"</span></div>").join("")+"</div>";
+  content.innerHTML="<div class='lesson-note'><strong>Objectif du jour</strong><br>"+lesson.objective+"</div><h3>Phrase modèle</h3><div class='lesson-note'>"+lesson.example+"</div><h3>Vocabulaire à réviser</h3><div class='vocab-grid'>"+lesson.vocabulary.map(w=>"<div class='vocab-item'><strong>"+w.en+"</strong><span>"+w.fr+"</span></div>").join("")+"</div><h3>Défi du jour</h3><p>"+lesson.challenge+"</p><h3>Programme des 90 minutes</h3><ol>"+lesson.routine.map(item=>"<li>"+item+"</li>").join("")+"</ol>";
  }else{content.innerHTML="";}
  const tasks=document.getElementById("tasks");tasks.innerHTML="";
  activities.forEach((a,i)=>{
