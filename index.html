@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#123c35">
+<title>English Coach — Mon anglais en 6 mois "MANU LE CHEF"</title>
+<style>
+:root{--green:#123c35;--gold:#f3c969;--bg:#f4f7f4}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:var(--bg);color:#18352f}
+header{background:var(--green);color:white;padding:28px 20px}
+header h1{margin:0 0 8px;font-size:28px}
+main{max-width:850px;margin:auto;padding:18px}
+.card{background:white;border-radius:16px;padding:20px;margin:14px 0;box-shadow:0 3px 15px #163b3010}
+.stats{display:flex;gap:12px;flex-wrap:wrap}
+.stat{flex:1;min-width:120px;background:#e9f2eb;padding:15px;border-radius:12px}
+.stat strong{display:block;font-size:24px;margin-bottom:5px}
+progress{width:100%;height:16px;accent-color:#23836b}
+select,button{padding:12px;border-radius:9px;border:1px solid #ccd8d0;font-size:15px}
+button{background:var(--green);color:white;border:0;cursor:pointer}
+.task{display:flex;gap:10px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #edf0ed}
+.task input{margin-top:4px;transform:scale(1.2)}
+.task span{line-height:1.5}
+.muted{color:#66776e;font-size:14px}
+footer{text-align:center;padding:24px;color:#66776e}
+</style>
+</head>
+<body>
+<header>
+  <h1>🌍 English Coach</h1>
+  <div>Ton coach d’anglais personnel · 6 mois · 90 minutes par jour</div>
+</header>
+<main>
+<section class="card">
+<h2>Bienvenue !</h2>
+<p>Pars de zéro et progresse vers des conversations en anglais pour les voyages et le travail.</p>
+<div class="stats">
+<div class="stat"><strong id="done">0</strong>jours terminés</div>
+<div class="stat"><strong id="percent">0%</strong>progression</div>
+<div class="stat"><strong>90 min</strong>par jour</div>
+</div>
+<p><progress id="bar" value="0" max="180"></progress></p>
+<label for="day">Choisis ta journée : </label>
+<select id="day"></select>
+</section>
+<section class="card">
+<h2 id="lessonTitle">Ta leçon du jour</h2>
+<p id="theme"></p>
+<p class="muted">Coche chaque activité après l’avoir terminée. Ta progression est sauvegardée sur cet appareil.</p>
+<div id="tasks"></div>
+<button id="save">Enregistrer ma journée</button>
+<button id="reset" style="background:#7b4037;margin-left:6px">Réinitialiser</button>
+<p id="message" aria-live="polite"></p>
+</section>
+<section class="card">
+<h2>📅 Les 6 étapes de ton parcours</h2>
+<ol>
+<li>Mois 1 : salutations, alphabet, nombres et phrases simples.</li>
+<li>Mois 2 : vocabulaire quotidien et questions courantes.</li>
+<li>Mois 3 : conversations, famille, achats et directions.</li>
+<li>Mois 4 : voyages, transport, hôtel et restaurant.</li>
+<li>Mois 5 : anglais professionnel, clients et réunions.</li>
+<li>Mois 6 : fluidité, compréhension et révisions pratiques.</li>
+</ol>
+<p class="muted">Conseil : parle à voix haute chaque jour et répète les expressions plusieurs fois.</p>
+</section>
+</main>
+<footer>English Coach · Un petit progrès chaque jour compte.</footer>
+<script>
+const phases=[
+{title:"Les bases",themes:["Salutations et présentations","Alphabet et prononciation","Nombres et âge","Pays et nationalités","Pronoms personnels","Verbe to be","Questions simples","Famille et amis","Objets quotidiens","Révision des bases"]},
+{title:"Vie quotidienne",themes:["Routine du matin","Heures et dates","Jours et mois","Nourriture et boissons","Au marché","Maison et pièces","Verbe to have","Aimer et préférer","Décrire une personne","Révision quotidienne"]},
+{title:"Conversations",themes:["Demander son chemin","Donner une direction","Faire connaissance","Parler de ses loisirs","Commander à manger","Faire des achats","Parler de sa journée","Poser des questions","Comprendre des réponses","Révision conversation"]},
+{title:"Voyages",themes:["À l’aéroport","Réservation d’hôtel","Transport et taxi","Demander de l’aide","Restaurant et menu","Prix et monnaie","Problèmes en voyage","Indications et lieux","Dialogues de voyage","Révision voyage"]},
+{title:"Anglais professionnel",themes:["Se présenter au travail","Métiers et compétences","Écrire un message simple","Accueillir un client","Téléphoner en anglais","Présenter un produit","Prix et négociation","Rendez-vous et horaires","Réunion simple","Révision professionnelle"]},
+{title:"Autonomie et fluidité",themes:["Raconter le passé","Parler de ses projets","Donner son opinion","Exprimer un besoin","Compréhension orale","Dialogue de voyage","Dialogue professionnel","Vocabulaire personnalisé","Conversation de 5 minutes","Bilan et révision"]}
+];
+const activities=[
+["Vocabulaire","Apprends 10 mots et écris leur traduction."],
+["Écoute et prononciation","Écoute de l’anglais 20 minutes et répète à voix haute."],
+["Conversation","Parle ou joue un dialogue pendant 20 minutes."],
+["Lecture et écriture","Lis quelques phrases et écris 5 phrases en anglais."]
+];
+const key="englishCoach180v1";
+let state={};
+try{state=JSON.parse(localStorage.getItem(key)||"{}")}catch(e){state={}}
+const daySelect=document.getElementById("day");
+for(let i=1;i<=180;i++){
+ const o=document.createElement("option");o.value=i;o.textContent="Jour "+i;daySelect.appendChild(o);
+}
+function phaseFor(d){return Math.min(5,Math.floor((d-1)/30))}
+function render(){
+ const d=Number(daySelect.value||1),p=phaseFor(d),n=(d-1)%10;
+ document.getElementById("lessonTitle").textContent="Jour "+d+" — "+phases[p].themes[n];
+ document.getElementById("theme").textContent="Étape "+(p+1)+"/6 : "+phases[p].title;
+ const tasks=document.getElementById("tasks");tasks.innerHTML="";
+ activities.forEach((a,i)=>{
+  const label=document.createElement("label");label.className="task";
+  const cb=document.createElement("input");cb.type="checkbox";
+  cb.checked=!!(state[d]&&state[d][i]);
+  const span=document.createElement("span");
+  span.innerHTML="<strong>"+a[0]+"</strong><br>"+a[1];
+  cb.addEventListener("change",()=>{state[d]=state[d]||{};state[d][i]=cb.checked;save(false)});
+  label.append(cb,span);tasks.appendChild(label);
+ });
+ updateStats();
+}
+function save(show=true){
+ try{localStorage.setItem(key,JSON.stringify(state));}
+ catch(e){document.getElementById("message").textContent="Sauvegarde indisponible sur ce navigateur."}
+ updateStats();
+ if(show)document.getElementById("message").textContent="Progression enregistrée sur cet appareil.";
+}
+function updateStats(){
+ let completed=0;
+ for(let d=1;d<=180;d++)if(activities.every((_,i)=>state[d]&&state[d][i]))completed++;
+ document.getElementById("done").textContent=completed;
+ document.getElementById("percent").textContent=Math.round(completed/180*100)+"%";
+ document.getElementById("bar").value=completed;
+}
+daySelect.addEventListener("change",render);
+document.getElementById("save").addEventListener("click",()=>save(true));
+document.getElementById("reset").addEventListener("click",()=>{
+ if(confirm("Effacer toute ta progression sur cet appareil ?")){
+  state={};save(false);render();
+  document.getElementById("message").textContent="Progression réinitialisée.";
+ }
+});
+render();
+</script>
+</body>
+</html>
